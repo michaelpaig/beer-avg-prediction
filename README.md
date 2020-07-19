@@ -1,4 +1,4 @@
-# Beer Ratint Average Prediciton
+# Beer Rating Average Prediciton
 
 #### Description
 The goal was to see if I could predict the average rating of a beer on beeradvocate.com
